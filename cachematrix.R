@@ -15,9 +15,11 @@
 
 ## For this assignment, assume that the matrix supplied is always invertible.
 
+
+
+
 ## The following functions below create a special object to store the matrix and caches its
 ## inverse. 
-
 ## The following function creates the matrix object
 
 makeCacheMatrix <- function(x = matrix()) {
